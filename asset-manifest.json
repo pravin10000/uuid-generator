@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/uuid-generator/static/js/main.9c9dd563.js",
+    "main.js": "/uuid-generator/static/js/main.de2fbbdc.js",
     "index.html": "/uuid-generator/index.html",
-    "main.9c9dd563.js.map": "/uuid-generator/static/js/main.9c9dd563.js.map"
+    "main.de2fbbdc.js.map": "/uuid-generator/static/js/main.de2fbbdc.js.map"
   },
   "entrypoints": [
-    "static/js/main.9c9dd563.js"
+    "static/js/main.de2fbbdc.js"
   ]
 }
