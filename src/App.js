@@ -13,7 +13,7 @@ function App() {
   // Copy UUID to clipboard
   const copyToClipboard = () => {
     navigator.clipboard.writeText(uuid);
-    alert("UUID copied to clipboard!");
+    // alert("UUID copied to clipboard!");
   };
 
   return (
