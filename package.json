@@ -2,7 +2,7 @@
   "name": "uuid-generate",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/pravin10000/uuid-generator",
+  "homepage": "https://pravin10000.github.io/uuid-generator/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
